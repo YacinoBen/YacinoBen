@@ -32,11 +32,11 @@ Here are some ideas to get you started:
 
 
 <a href="https://github.com/iampawan">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=styleoshin&hide=css,html&langs_count=20&theme=tokyonight" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YacinoBen&hide=css,html&langs_count=20&theme=tokyonight" />
 </a>
   
 <a href="https://github.com/iampawan">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Styleoshin&count_private=true&show_icons=true&theme=tokyonight" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=YacinoBen&count_private=true&show_icons=true&theme=tokyonight" />
 </a>
 
 **My articles:**  

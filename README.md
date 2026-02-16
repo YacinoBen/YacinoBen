@@ -44,10 +44,27 @@ I'm a software engineer with deep expertise in **modern C++ development**, deskt
 
 ## 📊 GitHub Analytics
 
-<a href="https://github.com/YacinoBen">
-  <img height="220em" src="https://github-readme-stats.vercel.app/api?username=YacinoBen&count_private=true&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
-  <img height="220em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YacinoBen&hide=css,html&langs_count=20&theme=tokyonight&hide_border=true" alt="Top Languages" />
-</a>
+
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=YacinoBen&count_private=true&include_all_commits=true&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="" />
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=YacinoBen&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" />
+</p>
+
+### 🧩 Detailed Breakdown (Repos, Languages, Total PRs)
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=YacinoBen&theme=tokyonight" alt="Profile Details" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=YacinoBen&theme=tokyonight" alt="GitHub Stats Summary" />
+</p>
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=YacinoBen&theme=tokyonight" alt="Repos per Language" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=YacinoBen&theme=tokyonight" alt="Most Commit Language" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=YacinoBen&theme=tokyonight&utcOffset=8" alt="Productive Time" />
+</p>
+
+### 🔥 Activity Graph (All Time)
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YacinoBen&theme=tokyonight&hide_border=true&area=true&line=2648ff&point=ffffff&color=ffffff" alt="Activity Graph" />
+</p>
 
 ---
 

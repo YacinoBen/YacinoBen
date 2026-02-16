@@ -6,6 +6,11 @@
 [![LinkedIn](https://img.shields.io/badge/-yacine--benaffane-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yacine-benaffane)
 [![Twitter](https://img.shields.io/twitter/follow/Yacino_ben31?style=social)](https://twitter.com/Yacino_ben31)
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/YacinoBen/YacinoBen/snake/github-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/YacinoBen/YacinoBen/blob/snake/github-snake.svg">
+  <img alt="github-snake" src="https://github.com/YacinoBen/YacinoBen/blob/snake/github-snake.svg">
+</picture>
 ---
 
 ## 👨‍💻 About Me

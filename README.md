@@ -61,11 +61,6 @@ I'm a software engineer with deep expertise in **modern C++ development**, deskt
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=YacinoBen&theme=tokyonight&utcOffset=8" alt="Productive Time" />
 </p>
 
-### 🔥 Activity Graph (All Time)
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YacinoBen&theme=tokyonight&hide_border=true&area=true&line=2648ff&point=ffffff&color=ffffff" alt="Activity Graph" />
-</p>
-
 ---
 
 ## 📝 Featured Articles

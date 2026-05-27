@@ -2364,7 +2364,7 @@ C++ | Qt | QML | Python | CMake</div>
                                     </svg>
                                     <div class="name">
                                         <span>morganstanley/modern-cpp-kafka</span>
-                                        <span>starred 12 days ago</span>
+                                        <span>starred 13 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A C++ API for Kafka clients (i.e. KafkaProducer, KafkaConsumer, AdminClient)</div>
@@ -2417,7 +2417,7 @@ C++ | Qt | QML | Python | CMake</div>
                                     </svg>
                                     <div class="name">
                                         <span>confluentinc/librdkafka</span>
-                                        <span>starred 12 days ago</span>
+                                        <span>starred 13 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">The Apache Kafka C/C++ library</div>
@@ -2576,7 +2576,7 @@ C++ | Qt | QML | Python | CMake</div>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 27 May 2026, 21:24:17 (timezone Europe/Paris) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 27 May 2026, 23:54:15 (timezone Europe/Paris) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>

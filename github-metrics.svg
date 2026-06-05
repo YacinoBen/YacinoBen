@@ -2327,7 +2327,7 @@ C++ | Qt | QML | Python | CMake</div>
                                     </svg>
                                     <div class="name">
                                         <span>cpm-cmake/CPM.cmake</span>
-                                        <span>starred 18 hours ago</span>
+                                        <span>starred 21 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">📦 CMake's missing package manager. A small CMake script for setup-free, cross-platform, reproducible dependency management.</div>
@@ -2433,7 +2433,7 @@ C++ | Qt | QML | Python | CMake</div>
                                     </svg>
                                     <div class="name">
                                         <span>nlohmann/json</span>
-                                        <span>starred 17 days ago</span>
+                                        <span>starred 18 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">JSON for Modern C++</div>
@@ -2598,7 +2598,7 @@ C++ | Qt | QML | Python | CMake</div>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 5 Jun 2026, 11:44:58 (timezone Europe/Paris) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 5 Jun 2026, 14:36:19 (timezone Europe/Paris) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>

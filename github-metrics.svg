@@ -2334,7 +2334,7 @@ C++ | Qt | QML | Python | CMake</div>
                                     </svg>
                                     <div class="name">
                                         <span>leejet/stable-diffusion.cpp</span>
-                                        <span>starred 6 hours ago</span>
+                                        <span>starred 7 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Diffusion model(SD,Flux,Wan,Qwen Image,Z-Image,...) inference in pure C/C++</div>
@@ -2387,7 +2387,7 @@ C++ | Qt | QML | Python | CMake</div>
                                     </svg>
                                     <div class="name">
                                         <span>Comfy-Org/ComfyUI</span>
-                                        <span>starred 20 hours ago</span>
+                                        <span>starred 21 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface.</div>
@@ -2609,7 +2609,7 @@ C++ | Qt | QML | Python | CMake</div>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 18 Jul 2026, 18:56:41 (timezone Europe/Paris) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 18 Jul 2026, 19:56:23 (timezone Europe/Paris) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>

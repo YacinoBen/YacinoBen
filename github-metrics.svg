@@ -23,7 +23,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M5.5 3.5a2 2 0 100 4 2 2 0 000-4zM2 5.5a3.5 3.5 0 115.898 2.549 5.507 5.507 0 013.034 4.084.75.75 0 11-1.482.235 4.001 4.001 0 00-7.9 0 .75.75 0 01-1.482-.236A5.507 5.507 0 013.102 8.05 3.49 3.49 0 012 5.5zM11 4a.75.75 0 100 1.5 1.5 1.5 0 01.666 2.844.75.75 0 00-.416.672v.352a.75.75 0 00.574.73c1.2.289 2.162 1.2 2.522 2.372a.75.75 0 101.434-.44 5.01 5.01 0 00-2.56-3.012A3 3 0 0011 4z"/>
                             </svg>
-                            Followed by 10 users
+                            Followed by 11 users
                         </div>
                     </section>
                     <section>
@@ -2319,7 +2319,7 @@ C++ | Qt | QML | Python | CMake</div>
                                     </svg>
                                     <div class="name">
                                         <span>actions/runner-images</span>
-                                        <span>starred 15 hours ago</span>
+                                        <span>starred 18 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">GitHub Actions runner images</div>
@@ -2372,7 +2372,7 @@ C++ | Qt | QML | Python | CMake</div>
                                     </svg>
                                     <div class="name">
                                         <span>actions/attest-build-provenance</span>
-                                        <span>starred 15 hours ago</span>
+                                        <span>starred 18 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Action for generating build provenance attestations for workflow artifacts</div>
@@ -2453,7 +2453,7 @@ C++ | Qt | QML | Python | CMake</div>
                                             <path d="M8 9.5a1.5 1.5 0 100-3 1.5 1.5 0 000 3z"/>
                                             <path fill-rule="evenodd" d="M8 0a8 8 0 100 16A8 8 0 008 0zM1.5 8a6.5 6.5 0 1113 0 6.5 6.5 0 01-13 0z"/>
                                         </svg>
-                                        799
+                                        800
                                     </div>
                                     <div>
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -2525,10 +2525,11 @@ C++ | Qt | QML | Python | CMake</div>
                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                         <path fill-rule="evenodd" d="M5.5 3.5a2 2 0 100 4 2 2 0 000-4zM2 5.5a3.5 3.5 0 115.898 2.549 5.507 5.507 0 013.034 4.084.75.75 0 11-1.482.235 4.001 4.001 0 00-7.9 0 .75.75 0 01-1.482-.236A5.507 5.507 0 013.102 8.05 3.49 3.49 0 012 5.5zM11 4a.75.75 0 100 1.5 1.5 1.5 0 01.666 2.844.75.75 0 00-.416.672v.352a.75.75 0 00.574.73c1.2.289 2.162 1.2 2.522 2.372a.75.75 0 101.434-.44 5.01 5.01 0 00-2.56-3.012A3 3 0 0011 4z"/>
                     </svg>
-                    10 followers
+                    11 followers
                 </h2>
                 <div class="row">
                     <section class="people">
+                        <img class="avatar" src="data:image/png;base64,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" width="28" height="28" alt="" />
                         <img class="avatar" src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAcABwDASIAAhEBAxEB/8QAGgAAAgIDAAAAAAAAAAAAAAAABgcCCAMEBf/EAC8QAAEDAwIEAwcFAAAAAAAAAAECAwQFBhEAIQcSMUETFIEVIjJhccHwUZGh0fH/xAAYAQACAwAAAAAAAAAAAAAAAAAFBgIDBP/EACMRAAEDAwMFAQAAAAAAAAAAAAIBAwQABRESIUETMVFhcTL/2gAMAwEAAhEDEQA/AFTw0sSPVIaavXArye5aazjnx1Uo/p+fUgl8SLco7q4lNp6nUNnly0hKEH6f5otrVLLtjyKbTQUr8p4bQTtnCdh6/fVZXEqbWWnElKgd89tMMkytoCDKbr3Wk2AAX5xx2SS6UXCDnGE80+EQLa4i0l6RFjmNMQeUuBAStCu2cbKH5tpL12jSaLVZECWg+KyrGU9FDsR8iNMrgPNbHtOCT76gl5I5ewyDv6p0Z3Ra8Ks1BEmSkeIloN+gJP31Moi3FgXQwhc1WFyWzTTimqq3xnfHz1ULLuuFPtFubKkIZVFQG5HOfhIGM+vb9tIS4pjdQuCoTGk8rT8hbiRjGASSNaKHFhJaCiEHqB31hVsrQqVPKSAgSdqYbfaG4LjjwL++PFWH4ZWwxQIL0tmYiZ5xKFBaE4AAz0Od+v8AGge/74ecuN1ukOkxmEhrnSchagTkj5b49Ncabc9SjWtGpUV1LEVCBzeGMKXkknJ/rGg1PTqdbJM/oNC0wmMUPgWlHJLkuYutV2T57r//2Q==" width="28" height="28" alt="" />
                         <img class="avatar" src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAcABwDASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAgcEBQYI/8QAKhAAAQMDAwMDBAMAAAAAAAAAAQIDBAAFEQYSIRMxQSJRYQcUMkJSobH/xAAXAQEBAQEAAAAAAAAAAAAAAAABAgQG/8QAHBEAAgMBAAMAAAAAAAAAAAAAAQIAAxEhEjFB/9oADAMBAAIRAxEAPwDn5NXVo05dbsl1UCE68Gm+orA7CtW1otqzaXcutxK3JpLfSSnHSGcHGf2Xj24/qtRpOemV9tb3t6G2QXVORhsKCATlY89sbx24yK6reaJmewldTsTzjLjDm15JQe/IoQaamopFj1BqqBHDC2obqQh5/IC3Fc+vJ4z2GSB81Q3T6bXhqa4m2pS/Eyemt5YaWRnyD/o4qg4zsp7FwBvciaJ1kxaIrkC6wzIiOHh9pWHmR5CM8FHnYeDWhtkrTlxuEl6JcVwFtpWA48oNdQEEFYHOODjAOT4ApTJo0mo8Y2UlhmxpRdXacssZZhRpE2S2S2lpRw04P5rX+age+zA+aX10uC7jOdlSEYUs+lDaiEoT4SB7Cq/NFmkL9iFyf//Z" width="28" height="28" alt="" />
                         <img class="avatar" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAIAAAD9b0jDAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAPUlEQVR4nGP4jwHeyqhgRQzYgJovQ+JBdMQwaigaGA3Tt6NJSmY0R6mMFihvR8tTmdHqRGW0NsUEQ7wxAQCFUMh6Cla1fwAAAABJRU5ErkJggg==" width="28" height="28" alt="" />
@@ -2598,7 +2599,7 @@ C++ | Qt | QML | Python | CMake</div>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 22 Jul 2026, 04:30:32 (timezone Europe/Paris) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 22 Jul 2026, 07:48:53 (timezone Europe/Paris) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>

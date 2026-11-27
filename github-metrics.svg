@@ -2329,7 +2329,7 @@ C++ | Qt | QML | Python | CMake</div>
                                     </svg>
                                     <div class="name">
                                         <span>GuillaumeDua/cpp-toolchain</span>
-                                        <span>starred 1 day ago</span>
+                                        <span>starred 2 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Up-to-date C++ toolchain images for the complete development cycle - GNU and LLVM side by side, from a minimal runtime to a full dev container, on GHRC and DockerHub.</div>
@@ -2382,7 +2382,7 @@ C++ | Qt | QML | Python | CMake</div>
                                     </svg>
                                     <div class="name">
                                         <span>grpc/grpc</span>
-                                        <span>starred 1 day ago</span>
+                                        <span>starred 2 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">C++ based gRPC (C++, Python, Ruby, Objective-C, PHP, C#)</div>
@@ -2435,7 +2435,7 @@ C++ | Qt | QML | Python | CMake</div>
                                     </svg>
                                     <div class="name">
                                         <span>cpp-best-practices/cppbestpractices</span>
-                                        <span>starred 2 days ago</span>
+                                        <span>starred 3 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Collaborative Collection of C++ Best Practices. This online resource is part of Jason Turner's collection of C++ Best Practices resources. See README.md for more information.</div>
@@ -2482,7 +2482,7 @@ C++ | Qt | QML | Python | CMake</div>
                                     </svg>
                                     <div class="name">
                                         <span>DiamonDinoia/skill-cpp</span>
-                                        <span>starred 2 days ago</span>
+                                        <span>starred 3 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Claude Code skill for writing, reviewing and modernizing C++ against the Core Guidelines</div>
@@ -2622,7 +2622,7 @@ C++ | Qt | QML | Python | CMake</div>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 27 Nov 2026, 14:29:24 (timezone Europe/Paris) with lowlighter/metrics@3.34.0-beta</span>
+                <span>Last updated 27 Nov 2026, 23:29:37 (timezone Europe/Paris) with lowlighter/metrics@3.34.0-beta</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
